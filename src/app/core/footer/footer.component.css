@@ -1,0 +1,15 @@
+.footer-wrapper {
+    background: rgba(0, 0, 0, 0.77);
+    margin-top: 60px;
+    margin: 0 auto;
+    padding: 18px 0;
+    overflow: hidden;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    color: #86aca3;
+}
+
+.footer-wrapper p {
+    padding: 0;
+}
